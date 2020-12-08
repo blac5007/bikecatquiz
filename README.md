@@ -1,6 +1,8 @@
 # bikecatquiz
 Category Quiz 
 
+Decision Matrix Doc: https://docs.google.com/spreadsheets/d/1RPMdkNSv1PZ3VXLVPlWLFQWKPQPcFVr5NLFUApqoOQ8/edit#gid=0
+
 What’s your main reason for wanting an e-bike?
 - [ ] Exercise
 - [ ] Fun
