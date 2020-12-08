@@ -6,7 +6,8 @@ What’s your main reason for wanting an e-bike?
 - [ ] Fun
 - [ ] Haul kids/cargo
 - [ ] Commuting
- Where do you want to ride?
+
+Where do you want to ride?
 - [ ] Road
 - [ ] Trails
 - [ ] Both
